@@ -1,0 +1,79 @@
+#schedule-table {
+    width: 94%;
+    border-collapse: separate;
+    display:flexbox;
+    padding: 20px;
+    background-color: #faf5ed;
+    
+}
+
+#schedule-table th {
+    border: 1px solid rgb(179, 177, 177);
+    padding: 8px;
+    text-align: center;
+}
+
+#schedule-table th {
+    background-color: #fde2c2;
+}
+
+#schedule-table-2 {
+    width: 100%;
+    border-collapse: collapse;
+    display: block;
+    padding: 0px; 
+    margin-top: 20px;
+    background-color: #e0effa;
+}
+
+#schedule-table-2 th, #schedule-table-2 td {
+    border: 1px solid rgb(252, 250, 250);
+    padding: 8px;
+    text-align: center;
+}
+
+#schedule-table-2 th {
+    background-color: #b0d5ff;
+}
+
+#schedule-table-3 {
+    width: 100%;
+    border-collapse: collapse;
+    display: block;
+    padding: 20px;   
+}
+
+#schedule-table-3 th {
+    border: 2px solid rgb(131, 130, 130);
+    padding: 8px;
+    text-align: center;
+}
+
+#schedule-table-3 th {
+    background-color: #d1f3e8;
+}
+
+.button-1 {
+    cursor: pointer;
+}
+
+.button-2 {
+    cursor: pointer;
+}
+
+.button-3 {
+    cursor: pointer;
+}
+
+.button-4 {
+    cursor: pointer;
+    color: rgb(245, 8, 8);
+    background: #d1f3e8;
+    border-radius: 5px;
+   
+}
+
+.table-2id {
+    border:darkred;
+    background-color: #053123;
+}
